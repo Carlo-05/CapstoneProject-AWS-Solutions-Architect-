@@ -372,6 +372,6 @@ Note: Deselect the default Security Group.
 
 ## The Project should look like this.
 
-[![Capstone Project](https://github.com/Carlo-05/hello-world/blob/main/CapstoneProject.png?raw=true)
+![Capstone Project](https://github.com/Carlo-05/hello-world/blob/main/CapstoneProject.png?raw=true)
 
 
