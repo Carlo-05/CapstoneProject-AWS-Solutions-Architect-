@@ -371,7 +371,6 @@ Note: Deselect the default Security Group.
 - Copy the DNS name of your Load balancer you take note earlier and paste in in your web browser. It should be working now. Try the query function of your app.
 
 ## The Project should look like this.
-
-![Capstone Project](https://github.com/Carlo-05/hello-world/blob/main/CapstoneProject.png?raw=true)
+![Capstone Project](https://github.com/Carlo-05/hello-world/blob/main/CapstoneProjectFinal.png?raw=true)
 
 
