@@ -24,6 +24,10 @@ Solution Requirements
 - Provide high availability to the website through a load balancer
 - Store database connection information in the AWS System Manager Parameter Store
 
+## The Project should look like this.
+![Capstone Project](https://github.com/Carlo-05/hello-world/blob/main/CapstoneProjectFinal.png?raw=true)
+
+
 ## Step 1: Create Admin group and user
 
 - Login into your AWS Management Console as an Admin user.
@@ -369,8 +373,3 @@ Note: Deselect the default Security Group.
 ## Step 16: Test your Capstone Project
 
 - Copy the DNS name of your Load balancer you take note earlier and paste in in your web browser. It should be working now. Try the query function of your app.
-
-## The Project should look like this.
-![Capstone Project](https://github.com/Carlo-05/hello-world/blob/main/CapstoneProjectFinal.png?raw=true)
-
-
