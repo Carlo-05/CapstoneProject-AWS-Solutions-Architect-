@@ -325,6 +325,10 @@ Note: Deselect the default Security Group.
     - Type: **SSH**
     - Source: **BastionHostSG**
     - Save
+  - Add Inbound rules:
+    - Type: **HTTP**
+    - Source: **ALBSG**
+    - Save
 - Edit DBSG security group:
   - Add Inbound rules:
     - Type: **MYSQL/Aurora**
